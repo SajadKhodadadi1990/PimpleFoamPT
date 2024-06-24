@@ -73,7 +73,7 @@ cp -r lagrangian  ~/foam/foam-extend-4.0/src/
   This solver can be utilized for various Lagrangian problems that involve complex geometries and are based on a Cartesian mesh.
 
 ## Citation
-
+  [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.12520009.svg)](https://doi.org/10.5281/zenodo.12520009)
 
 
   
