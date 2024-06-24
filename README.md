@@ -9,7 +9,7 @@ Coupled Eulerian-Lagrangian Immersed Boundary (IB) solver
  * Coupling discrete IB method library to Eulerian-Lagrangian solver
  * Enhancing the accuracy of the default IB solver by introducing the corrected face
 
-   ![1](https://github.com/SajadKhodadadi1990/pimpleFoamPT_main/assets/108683094/46ff3cd4-e6d3-4021-b9f4-6791874adcfb)
+  ![Untitled](https://github.com/SajadKhodadadi1990/PimpleFoamPT/assets/108683094/655bf48c-e487-4559-97af-27c395841649)
 
 ## Installation
 ### __1.  Copy files from `pimpleFoamPT` folder to  `src` and `applications/solvers/immersedBoundary/` folders of foam-extend-4.0__
