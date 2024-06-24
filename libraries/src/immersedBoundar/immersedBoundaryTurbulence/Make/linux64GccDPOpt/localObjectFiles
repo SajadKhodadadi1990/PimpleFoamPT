@@ -1,0 +1,5 @@
+LOCAL_OBJECTS = \
+immersedBoundaryWallFunctionFvPatchFields.o\
+immersedBoundaryEpsilonWallFunctionFvPatchScalarField.o\
+immersedBoundaryOmegaWallFunctionFvPatchScalarField.o\
+immersedBoundaryVelocityWallFunctionFvPatchVectorField.o

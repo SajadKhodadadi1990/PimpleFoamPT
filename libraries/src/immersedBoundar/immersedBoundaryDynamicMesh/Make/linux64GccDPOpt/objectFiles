@@ -1,0 +1,3 @@
+OBJECTS = \
+$(OBJECTS_DIR)/movingImmersedBoundary.o\
+$(OBJECTS_DIR)/immersedBoundarySolidBodyMotionFvMesh.o

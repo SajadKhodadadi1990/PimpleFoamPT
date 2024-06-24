@@ -1,0 +1,16 @@
+PARCELS=parcels
+BASEPARCELS=$(PARCELS)/baseClasses
+DERIVEDPARCELS=$(PARCELS)/derived
+CLOUDS=clouds
+BASECLOUDS=$(CLOUDS)/baseClasses
+DERIVEDCLOUDS=$(CLOUDS)/derived
+KINEMATICPARCEL=$(DERIVEDPARCELS)/basicKinematicParcel
+THERMOPARCEL=$(DERIVEDPARCELS)/basicThermoParcel
+REACTINGPARCEL=$(DERIVEDPARCELS)/BasicReactingParcel
+REACTINGMPPARCEL=$(DERIVEDPARCELS)/BasicReactingMultiphaseParcel
+RADIATION=submodels/addOns/radiation
+KINEMATICINJECTION=submodels/Kinematic/InjectionModel
+THERMOINJECTION=submodels/Thermodynamic/InjectionModel
+REACTINGINJECTION=submodels/Reacting/InjectionModel
+REACTINGMPINJECTION=submodels/ReactingMultiphase/InjectionModel
+LIB = $(FOAM_LIBBIN)/liblagrangianIntermediate

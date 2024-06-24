@@ -1,0 +1,12 @@
+LOCAL_OBJECTS = \
+immersedBoundaryPolyPatch.o\
+immersedBoundaryPointPatch.o\
+immersedBoundaryFvPatch.o\
+immersedBoundaryFvPatchLeastSquaresFit.o\
+immersedBoundaryFvPatchSamplingWeights.o\
+immersedBoundaryFvPatchTriAddressing.o\
+immersedBoundaryFvPatchFields.o\
+immersedBoundaryFvsPatchFields.o\
+immersedBoundaryAdjustPhi.o\
+refineImmersedBoundaryMesh.o\
+ibSwirlFlowRateInletVelocityFvPatchVectorField.o

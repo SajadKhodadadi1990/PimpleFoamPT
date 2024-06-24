@@ -1,0 +1,5 @@
+OBJECTS = \
+$(OBJECTS_DIR)/immersedBoundaryWallFunctionFvPatchFields.o\
+$(OBJECTS_DIR)/immersedBoundaryEpsilonWallFunctionFvPatchScalarField.o\
+$(OBJECTS_DIR)/immersedBoundaryOmegaWallFunctionFvPatchScalarField.o\
+$(OBJECTS_DIR)/immersedBoundaryVelocityWallFunctionFvPatchVectorField.o
