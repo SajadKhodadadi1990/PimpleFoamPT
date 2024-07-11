@@ -74,7 +74,7 @@ cp -r lagrangian  ~/foam/foam-extend-4.0/src/
 ## Citation
   [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.12520009.svg)](https://doi.org/10.5281/zenodo.12520009)
 
-  [1](https://www.sciencedirect.com/science/article/abs/pii/S0921883124002401?via%3Dihub)(https://doi.org/10.1016/j.apt.2024.104564)
+  [1]https://www.sciencedirect.com/science/article/abs/pii/S0921883124002401?via%3Dihub (https://doi.org/10.1016/j.apt.2024.104564)
 
 
   
